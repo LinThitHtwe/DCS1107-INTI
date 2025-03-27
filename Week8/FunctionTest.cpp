@@ -3,6 +3,7 @@ using namespace std;
 
 void menu();
 bool login();
+bool resetPassword();
 
 main(){
 	int option = 0;
