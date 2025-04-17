@@ -1,0 +1,4 @@
+Alex Lee	1001	50	C
+Lin Thit	1002	96	A
+John Doe	1003	72	B
+Steve Wood	1004	50	C
